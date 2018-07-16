@@ -1,0 +1,6 @@
+sudo apt-get install xxx , what computer does?
+4 steps:
+first,skip local softwares list and find the lastest software packages;
+secondly, check the software for rely on and find out all the packages it relys on;
+thirdly, from where the software points to get the related softwares;
+forthly, untar the software and install and configure the software
